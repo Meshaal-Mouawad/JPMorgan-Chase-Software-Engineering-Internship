@@ -1,4 +1,4 @@
-[image] (https://user-images.githubusercontent.com/72484101/187799604-a75843e0-4669-4b81-87a2-83bbe9ead49c.png)
+![image] (https://user-images.githubusercontent.com/72484101/187799604-a75843e0-4669-4b81-87a2-83bbe9ead49c.png)
 
 # JPMorgan-Chase-Software-Engineering-Internship
 
