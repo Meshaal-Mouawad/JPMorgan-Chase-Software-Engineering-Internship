@@ -1,4 +1,6 @@
-![image] (https://user-images.githubusercontent.com/72484101/187799604-a75843e0-4669-4b81-87a2-83bbe9ead49c.png)
+![image](https://user-images.githubusercontent.com/72484101/187799604-a75843e0-4669-4b81-87a2-83bbe9ead49c.png)
+![image](https://user-images.githubusercontent.com/72484101/187801042-c8b12279-7859-4512-b8ee-a8c4ef266260.png)
+
 
 # JPMorgan-Chase-Software-Engineering-Internship
 
