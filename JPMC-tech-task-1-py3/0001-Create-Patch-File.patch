@@ -1,0 +1,137 @@
+From ba57b97583b8814db9ccd8fe3b74250fc4368559 Mon Sep 17 00:00:00 2001
+From: Meshaal_Mouawad <Meshaal_Mouawad@student.uml.edu>
+Date: Tue, 30 Aug 2022 19:43:30 -0500
+Subject: [PATCH] Create Patch File
+
+---
+ 0001-Update-README-setupv6.patch    |  25 +++++++++++++++++++++++++
+ __pycache__/client3.cpython-310.pyc | Bin 0 -> 1144 bytes
+ __pycache__/client3.cpython-37.pyc  | Bin 0 -> 1047 bytes
+ client3.py                          |  13 ++++++++-----
+ 4 files changed, 33 insertions(+), 5 deletions(-)
+ create mode 100644 0001-Update-README-setupv6.patch
+ create mode 100644 __pycache__/client3.cpython-310.pyc
+ create mode 100644 __pycache__/client3.cpython-37.pyc
+
+diff --git a/0001-Update-README-setupv6.patch b/0001-Update-README-setupv6.patch
+new file mode 100644
+index 0000000..a0ce3f5
+--- /dev/null
++++ b/0001-Update-README-setupv6.patch
+@@ -0,0 +1,25 @@
++From 36143294b216b7210e2ee5948c78725503a5b7ca Mon Sep 17 00:00:00 2001
++From: jbf-insidesherpa <54832297+jbf-insidesherpa@users.noreply.github.com>
++Date: Mon, 25 Nov 2019 09:24:48 +0800
++Subject: [PATCH] Update README (setupv6)
++
++---
++ README.markdown | 2 +-
++ 1 file changed, 1 insertion(+), 1 deletion(-)
++
++diff --git a/README.markdown b/README.markdown
++index 3390f3c..33da80c 100644
++--- a/README.markdown
+++++ b/README.markdown
++@@ -32,7 +32,7 @@
++ 
++ <h2 id="installation" >Set up / Installation</h2>
++ 
++-<p>In order to get the server and client application code working on your machine, <a href="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/Sj7temL583QAYpHXD/setup_devenv_m1_v5a.pdf">follow the setup here</a></p>
+++<p>In order to get the server and client application code working on your machine, <a href="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/Sj7temL583QAYpHXD/setup_devenv_m1_v6.pdf">follow the setup here</a></p>
++ <p><b>Note:</b>This is the Python 3 version of the JPM 1 exercise. The Python 2.7 version is in <a href="https://github.com/insidesherpa/JPMC-tech-task-1">this other repo</a></p>
++ 
++ <h2>How to Run</h2>
++-- 
++2.33.0.windows.2
++
+diff --git a/__pycache__/client3.cpython-310.pyc b/__pycache__/client3.cpython-310.pyc
+new file mode 100644
+index 0000000000000000000000000000000000000000..3b4d902e860d7c5bd1a93610ffe7ba16ef65044e
+GIT binary patch
+literal 1144
+zcmYjQPjA~c6elIhmJ&Nl(=>_E9k^k|YM^O4^b&a8x;5zr3`meR=wXBlfi|CGHL~Q8
+z^oDrODf<*VImdm6U3c3j&~>NYd)jG_bP|-p`$s)K{oapHWwW_NaQ*T3sr)M;<X;zj
+zyl{_vhhqLgrHG<A5!Bm21m1=s^p**x0uiZD)D%<E??lv9P1VuHkf``H&^=g!+9lm5
+zZ=Z{02<Hu;@0#-!h~}RFo3kr&MX%_5)md>TAsG>Ca0j!u#9gSv-AmeKVqM%58)6eS
+zVGY)w5!g}*tiwInfXxBhAeWSqv#)V?31V1N%PoSs(IS_@^}8<=J;pAMNxS(TJ0geE
+z&xY2HJ3Bjh*_ZjSG`6$*WcSI=*#z|Y^Gtp7+eP+)64FPxT@iW=We>%?K$VagR&9|B
+zYMmFfhzjwm^dj&vyN$zHFbg+{itdvOHlr?@u>nIo^=XG6=~7Mlz-6BEa=`5ncmbe5
+z@n2*<0mE&{PoMxTEhcd#tsIwGVR;o9TlP<@x-G|PFH==C)>$7Gu{5Xe0|a^4rd2e^
+zOKICt6`f5=3)<~h37$w72NFzPxY{-NC(+Aj{@dN_bl(`zrh5QpC}qwM%8C3{s_sum
+z2YcHV`onFDN4LM)9-lw$_VWx1`}FbnylR|)-A9~99w*i^4OBr8(^Y&L_~<5X^c|3!
+z<$Nce-Ys+zM=(_shbUITF;YCE_X&~~PCw^Ag5^j^RyxXj7pdg3P}hEsYj<^rzL9ny
+z>eneZPS3wsC<m>I5%FtRuZ@v$zef-RG^PwiulS5K9m%Xn)9IJ59E*xSFkD*x5P9r8
+zFpoGg;jRA^dhKcKD`H+1e*a>x3in_B&~Ay9iO%z^_gDjto3Wy{h%08Z5eW9ql!d5i
+z?4=xu=+&E-uYa!Sq37!sNFhg%rd5PlCs0xJ@Pd^Q^_!Y?tXYnssA_{!kEE@b2C1r=
+zzkefY9;4AQHs+^6yI)?rw*3V7Nh<6|B)Ngm3#Oipa9(rx))8zTqKemJWC^(nSr`X#
+W5+{w2(;#r%t)gtuPbvGr!v6ujv>AB-
+
+literal 0
+HcmV?d00001
+
+diff --git a/__pycache__/client3.cpython-37.pyc b/__pycache__/client3.cpython-37.pyc
+new file mode 100644
+index 0000000000000000000000000000000000000000..3a14dc1a6d23871b336a7f0af577630ab025ab74
+GIT binary patch
+literal 1047
+zcmYjQOK%f96t-tPnMq$jOIs?jFjqpikti)<Q$@UV%M}t*tHKpRjB+({<CA9E$xLcH
+z(1vsseg=zldH(_neu%es#hw)_j-3`^%jaRAIsVRfJb%s4&k!8%J|By{IwAi%=W3u&
+zp5fA8QAi?bK~m~<kOp3dY3MaenGDiMhG|VQ8GRyYENe1Goj_eC$AS8CdI~cz3$-yF
+z)92*hZaN3yWFF|z!sHr6lk31H?1Eg-3p%;sbh>!D1&bKDo-RQQOJmw%>CJRGT}fBr
+zmaM}~ScVl??XVRxrj(qVz9qOn0|~6c>NvRE-Fu6;{~?XpZ&(A_8{X*}({FBW7FAmm
+z-AbG0_SW{+=E(rm+0$G;{&=2$r-Za|`4ORHxOQ;qZ4@KSw?@vXaaOQKWVnX+p9kJ&
+zzx;3%oU;)f1*34pIt&p+!zSNXl^nEzi=yCFhnp_&5<r6F??o{H%}vD*p#&ui25~8j
+z=vR4ZxQ(=_+Q&9FRX;n(rH%S3Z^P6V`nW-D)F~=q8j+1o29*I7AXr<+*lZeF$FQlX
+zTtWX4<vRakd#BlYqe1D`F6gch1>da(;)9T_m;1Xr8wT3l4TGO<JlN=;J#4j$97^->
+ze*etQ9fEm|2=_fg%%%NP3KM!AC!=Z(_u3AI8%{e?J&_K8Z%Z)zgTDa7vEaONlz6O}
+z;G&e5_5uIqzVm1sK^k91Tp0)cU@B%Y&L#-!wM*APPy6ecTJR@X))RS|Wy3#TIf^8|
+ztGO_I9Z725)%Q4->9xNCt;R6%nJ})gW)}vkDDs2*3h=dPV{232GL!efvLjuUwx$qx
+z)k~vSZ~lJ$&eA<k!msN~(St0rEXV%X2xAYy(#%HKIjL=Yl{v=DRUa^2r&2v(EK?w)
+zt@*}k6+1dyVJdOL{ieR9{!x_XH$q%P)RdJ+J$!lvJXyvqeH%qW{R~;if~20rNw`RP
+KID@Ub75oG^*$}7z
+
+literal 0
+HcmV?d00001
+
+diff --git a/client3.py b/client3.py
+index f1771c3..2524b6c 100644
+--- a/client3.py
++++ b/client3.py
+@@ -35,25 +35,28 @@ def getDataPoint(quote):
+ 	stock = quote['stock']
+ 	bid_price = float(quote['top_bid']['price'])
+ 	ask_price = float(quote['top_ask']['price'])
+-	price = bid_price
++	price = (bid_price+ask_price) / 2
+ 	return stock, bid_price, ask_price, price
+ 
+ def getRatio(price_a, price_b):
+ 	""" Get ratio of price_a and price_b """
+ 	""" ------------- Update this function ------------- """
+ 	""" Also create some unit tests for this function in client_test.py """
+-	return 1
++	if (price_b == 0):
++		return
++	return price_a/price_b
+ 
+ # Main
+ if __name__ == "__main__":
+ 
+ 	# Query the price once every N seconds.
+-	for _ in iter(range(N)):
++	for _ in range(N):
+ 		quotes = json.loads(urllib.request.urlopen(QUERY.format(random.random())).read())
+ 
+ 		""" ----------- Update to get the ratio --------------- """
++		prices = {}
+ 		for quote in quotes:
+ 			stock, bid_price, ask_price, price = getDataPoint(quote)
++			prices[stock] = price
+ 			print ("Quoted %s at (bid:%s, ask:%s, price:%s)" % (stock, bid_price, ask_price, price))
+-
+-		print ("Ratio %s" % getRatio(price, price))
++		print ("Ratio %s" % (getRatio(prices['ABC'], prices['DEF'])))
+\ No newline at end of file
+-- 
+2.33.0.windows.2
+
