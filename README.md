@@ -4,7 +4,15 @@
 
 # JPMorgan-Chase-Software-Engineering-Internship
 
-Task 1:
+# Task 1:
+Please do NOT copy my soultions if you are doing your assigntmnt as this will not help you to practice and my not be ethical to do so.
+
+before you start to find the problem in the python files, make sure that you have installed tand set up the enviroment.
+
+Here is my answer
+
+https://github.com/Meshaal-Mouawad/JPMorgan-Chase-Software-Engineering-Internship/tree/main/JPMC-tech-task-1-py3
+
 
 
 # Task 2
